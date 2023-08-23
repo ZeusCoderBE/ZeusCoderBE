@@ -2,8 +2,7 @@ Hi Everyone, I'm ZEUS👦,
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100012067900880) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ZEUSCODER) 
 
-# ![Uploading image.png…]()
- Target
+# ![image](https://github.com/huydeptrai1/huydeptrai1/assets/117000361/263aa538-a262-430a-920c-3f97acd08c0e)Target
 
 I am currently studying at Ho Chi Minh University of Technology and Education. My goal is to become a java backend website developer
 # 💻Tech Stack
