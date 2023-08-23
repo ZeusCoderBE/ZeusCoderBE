@@ -1,4 +1,4 @@
-Hi Everyone, I'm ZEUS👦,
+Hi Everyone, I'm ZEUS👦.
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100012067900880) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ZEUSCODER) 
 
