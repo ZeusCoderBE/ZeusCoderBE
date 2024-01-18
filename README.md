@@ -7,12 +7,13 @@
 
 - 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
 
-- 📫 How to reach me **hdang1696@gmail.com**
+- 📫 How to reach me **hdang1696@gmail.com/0395049120**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/huyhocdata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100012067900880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012067900880" height="30" width="40" /></a>
+<a href="[https://fb.com/profile.php?id=100012067900880](https://www.tiktok.com/@ZEUSCODER?fbclid=IwAR01a4SwbnI0pdcUzgdqP_tUwsI-aAaJjK2gAZTUsSPEjoWMrnHWVYJ9p_o)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="profile.php?id=100012067900880" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
