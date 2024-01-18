@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeuscoderbe" alt="zeuscoderbe" /></a> </p>
-
 - 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
 
-- 📫 How to reach me **hdang1696@gmail.com**
+- 📫 How to reach me **hdang1696@gmail.com/0395049120**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
