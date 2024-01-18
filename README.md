@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
 
+- 💼 I’m currently Studying in Ho Chi Minh City University of Technology and Education [https://hcmute.edu.vn/](https://hcmute.edu.vn/)
+
+- 📖 I'm majoring in data engineering and I'm self-taught java backend web [https://hcmute.edu.vn/](https://hcmute.edu.vn/)
+
 - 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
 
 - 📫 How to reach me **hdang1696@gmail.com**
