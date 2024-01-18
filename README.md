@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Quang Huy </h1>
-<h3 align="center">As a Data Engineering student, I'm passionate about programming and aspire to become a Backend Java Developer or Data Engineering. Despite lacking professional experience, I've successfully completed various personal projects. I'm actively seeking opportunities in a professional environment where I can learn and make positive contributions. Committed to putting in the effort and ready to contribute to growth. Looking forward to discussions and collaborative efforts</h3>
+<h3 align="center">As a Data Engineering 3rd student, I'm passionate about programming and aspire to become a Backend Java Developer or Data Engineering. Despite lacking professional experience, I've successfully completed various personal projects. I'm actively seeking opportunities in a professional environment where I can learn and make positive contributions. Committed to putting in the effort and ready to contribute to growth. Looking forward to discussions and collaborative efforts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
 
