@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/huyhocdata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100012067900880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012067900880" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@ZEUSCODER" target="blank"><img align="center" src="[https://cdn-icons-png.flaticon.com/512/4138/4138198.png](https://seeklogo.com/images/T/tiktok-share-icon-black-logo-29FFD062A0-seeklogo.com.png)" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@ZEUSCODER" target="blank"><img align="center" src="https://seeklogo.com/images/T/tiktok-share-icon-black-logo-29FFD062A0-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
