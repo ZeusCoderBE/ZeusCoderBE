@@ -6,7 +6,7 @@
 - 💼 I’m currently Studying in Ho Chi Minh City University of Technology and Education (HCMUTE)
 - 📖 I'm majoring in data engineering [https://hcmute.edu.vn/](https://hcmute.edu.vn/)  and I'm self-taught java backend web https://www.coursera.org/
 
-- 💬 Ask me about **https://www.linkedin.com/in/huyhocdata/**
+- 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
 
 - 📫 How to reach me **hdang1696@gmail.com**
 
