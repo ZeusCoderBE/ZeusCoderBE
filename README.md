@@ -6,7 +6,7 @@ many personal projects during my studies.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
 
 - 💼 I’m currently Studying in Ho Chi Minh City University of Technology and Education (HCMUTE)
-- 📖 I'm majoring in data engineering [https://hcmute.edu.vn/](https://hcmute.edu.vn/)  and I'm self-taught java backend web https://www.coursera.org/
+- 📖 I'm majoring in data engineering [https://hcmute.edu.vn/](https://hcmute.edu.vn/)
 
 - 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
 
