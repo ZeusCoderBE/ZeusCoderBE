@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone 🫷, I'm Quang Huy </h1>
 <h3 align="center">I am a Data Engineering 3rd years student, I am passionate about programming and aspire to
-become a Data Scientist. Despite my lack of professional experience, I successfully completed
+become a AI Engineering. Despite my lack of professional experience, I successfully completed
 many personal projects during my studies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
