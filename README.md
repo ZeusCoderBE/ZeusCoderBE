@@ -5,7 +5,6 @@
 
 - 📖 I am currently a third-year Data Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE).
 - 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
-
 - 📫 How to reach me **hdang1696@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
