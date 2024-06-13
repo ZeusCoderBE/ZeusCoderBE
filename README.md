@@ -11,9 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/huyhocdata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100012067900880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012067900880" height="30" width="40" /></a>
-<a href="mailto:hdang1696@gmail.com" alt="Email">
-    <img src="https://camo.githubusercontent.com/de1537b6b4e3eb3aec537c186191557a5e84ddff023d142f12b04211187dd26a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d61696c696e672e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/mailing.png" style="max-width: 100%;">
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
