@@ -1,11 +1,9 @@
 <h1 align="center">Hi everyone 🫷, I'm Quang Huy </h1>
-<h3 align="center">After graduation, I aim to pursue a career as an AI Engineer or Data Science Specialist. My primary interest lies in processing diverse data types, with a particular passion for Natural Language Processing (NLP) and Generative AI. I'm excited about the endless possibilities in these fields and look forward to contributing innovative solutions to real-world challenges.</h3>
+<h3 align="center">I'm Quang Huy, but feel free to call me "Zeus".After graduation, I aim to pursue a career as an AI Engineer or Data Science Specialist. My primary interest lies in processing diverse data types, with a particular passion for Natural Language Processing (NLP) and Generative AI. I'm excited about the endless possibilities in these fields and look forward to contributing innovative solutions to real-world challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
 
-- 💼 I’m currently Studying in Ho Chi Minh City University of Technology and Education (HCMUTE)
-- 📖 I'm majoring in data engineering [https://hcmute.edu.vn/](https://hcmute.edu.vn/)
-
+- 📖 I am currently a third-year Data Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE).
 - 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
 
 - 📫 How to reach me **hdang1696@gmail.com**
