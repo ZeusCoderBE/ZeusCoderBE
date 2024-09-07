@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 🫷 , I'm Quang Huy, but feel free to call me "Zeus"</h1>
-<h3 align="center">After graduation, I aim to pursue a career as a Data Scientist or Data Analyst. My primary interest lies in processing diverse data types, with a particular passion for Natural Language Processing (NLP) and Generative AI. I am excited about the endless possibilities in these fields and look forward to finding insights that support data-driven decision-making for businesses.</h3>
+<h3 align="center">As a senior majoring in Data Engineering, I aim to build a career as a Data Analyst, leveraging my 3-month internship experience in data analysis,visualization and built dashboard .With a passion for Natural Language Processing (NLP) and working with diverse data types, I am eager to develop innovative solutions that drive data-driven business decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
 
