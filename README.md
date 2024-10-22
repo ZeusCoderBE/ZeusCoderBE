@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab249cb9-1368-479a-8c48-bbadfb28d87e)<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for my English name</h1>  
+<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for my English name</h1>  
 <h3 align="center">  
   I am a final-year Data Engineering student passionate about Natural Language Processing (NLP) and working with diverse data types.  
 </h3>  
