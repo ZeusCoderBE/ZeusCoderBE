@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
+![image](https://github.com/user-attachments/assets/97388301-9558-4af5-849e-a898d7ed50c1)<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
 <h3 align="center">As a final-year Data Engineering student with a passion for Natural Language Processing (NLP) and working with diverse data types, I aspire to develop innovative solutions that drive data-driven business decisions. As a fresher AI Engineer specializing in Generative AI (GenAI), Large Language Models (LLM), and NLP, I focus on creating AI-powered products that help businesses optimize their operational processes. </h3>
 
 - 💬 Ask me about **https://www.tiktok.com/@zeusghetda**  
@@ -24,8 +24,8 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>   
 <a href="https://qdrant.tech" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="40" height="40"/></a>  
-<a href="https://www.trychroma.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT40Eq8w7gpz1SXNO1T3bI_6j6EzYfZRc7e4g&s" alt="chroma" width="40" height="40"/></a> 
-<a href="https://www.langchain.com/" target="_blank"><img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.14.1-dev.11/icon" alt="chroma" width="40" height="40"/></a> 
+<a href="https://www.trychroma.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqd_XPfXSx4LU6aBoVWObLz0ShODYzp9Z6Q&s" alt="chroma" width="40" height="40"/></a> 
+<a href="https://www.langchain.com/" target="_blank"><img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.14.1-dev.11/icon" alt="langchain" width="40" height="40"/></a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  
