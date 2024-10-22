@@ -1,5 +1,20 @@
-<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
-<h3 align="center">As a final-year Data Engineering student with a passion for Natural Language Processing (NLP) and working with diverse data types, I aspire to develop innovative solutions that drive data-driven business decisions. As a fresher AI Engineer specializing in Generative AI (GenAI), Large Language Models (LLM), and NLP, I focus on creating AI-powered products that help businesses optimize their operational processes. I specialize in chatbot development and have experience fine-tuning LLMs such as PhoBERT, BERT, and ViT5. Additionally, I possess skills in Retrieval-Augmented Generation (RAG), vector databases like Qdrant and ChromaDB, and DevOps tools including CUDA and Docker.</h3>
+![image](https://github.com/user-attachments/assets/ab249cb9-1368-479a-8c48-bbadfb28d87e)<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for my English name</h1>  
+<h3 align="center">  
+  I am a final-year Data Engineering student passionate about Natural Language Processing (NLP) and working with diverse data types.  
+</h3>  
+
+<h3 align="center">  
+  As a fresher AI Engineer, I specialize in Generative AI (GenAI), Large Language Models (LLM), and NLP. My focus is on developing AI-powered solutions that help businesses optimize their operational processes through data-driven insights.  
+</h3>  
+
+<h3 align="center">  
+  I have experience in fine-tuning LLMs such as PhoBERT, BERT, and ViT5. I also work on chatbot development and Retrieval-Augmented Generation (RAG) systems, leveraging vector databases like Qdrant and ChromaDB.  
+</h3>  
+
+<h3 align="center">  
+  In addition, I am proficient in using DevOps tools like CUDA and Docker, and I am skilled in integrating AI models with LangChain to create more efficient and scalable solutions.  
+</h3>
+
 
 - 💬 Ask me about **https://www.tiktok.com/@zeusghetda**  
 - 📫 How to reach me **hdang1696@gmail.com**
@@ -25,7 +40,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>   
 <a href="https://qdrant.tech" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="40" height="40"/></a>  
 <a href="https://www.trychroma.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT40Eq8w7gpz1SXNO1T3bI_6j6EzYfZRc7e4g&s" alt="chroma" width="40" height="40"/></a> 
-<a href="https://www.langchain.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BkqrPWxfoFyeFcM5gvl9yB6ZSwH6hECe3Q&s" alt="chroma" width="40" height="40"/></a> 
+<a href="https://www.langchain.com/" target="_blank"><img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.14.1-dev.11/icon" alt="chroma" width="40" height="40"/></a> 
 <a href="https://qdrant.tech" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="40" height="40"/></a>  
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>  
