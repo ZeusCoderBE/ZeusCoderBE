@@ -1,9 +1,9 @@
-<h1 align="center">Hi everyone 🫷 , I'm Quang Huy, but feel free to call me "Zeus"</h1>
-<h3 align="center">As a senior majoring in Data Engineering, I aim to build a career as a Data Analyst, leveraging my 3-month internship experience in data analysis,visualization and built dashboard .With a passion for Natural Language Processing (NLP) and working with diverse data types, I am eager to develop innovative solutions that drive data-driven business decisions.</h3>
+<h1 align="center">Hi everyone 🫷 , I'm Quang Huy, or Zeus for english name </h1>
+<h3 align="center">As a final-year Data Engineering student with a passion for Natural Language Processing (NLP) and working with diverse data types, I aspire to develop innovative solutions that drive data-driven business decisions. As a fresher AI Engineer specializing in Generative AI (GenAI), Large Language Models (LLM), and NLP, I am focused on creating AI-powered products that help businesses optimize their operational processes..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuscoderbe&label=Profile%20views&color=0e75b6&style=flat" alt="zeuscoderbe" /> </p>
 
-- 📖 I am currently a third-year Data Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE).
+- 📖 I am currently a fourth-year Data Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE).
 - 💬 Ask me about **https://www.facebook.com/profile.php?id=100012067900880**
 - 📫 How to reach me **hdang1696@gmail.com**
 
