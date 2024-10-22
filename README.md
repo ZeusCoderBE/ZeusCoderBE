@@ -34,7 +34,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>  
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>  
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>  
-<a href="https://qdrant.tech" target="_blank"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="qdrant" width="40" height="40"/></a>  
+<a href="https://qdrant.tech" target="_blank"><img src="https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/65c3f5f8d299c3da231734c7_logo_with_text.svg" alt="qdrant" width="40" height="40"/></a>  
 </p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeuscoderbe&show_icons=true&locale=en&layout=compact" alt="zeuscoderbe" /></p>  
