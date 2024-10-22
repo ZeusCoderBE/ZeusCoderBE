@@ -1,7 +1,3 @@
-Here's your updated profile with the addition of the Qdrant link and image:
-
----
-
 <h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
 <h3 align="center">As a final-year Data Engineering student with a passion for Natural Language Processing (NLP) and working with diverse data types, I aspire to develop innovative solutions that drive data-driven business decisions. As a fresher AI Engineer specializing in Generative AI (GenAI), Large Language Models (LLM), and NLP, I focus on creating AI-powered products that help businesses optimize their operational processes. I specialize in chatbot development and have experience fine-tuning LLMs such as PhoBERT, BERT, and ViT5. Additionally, I possess skills in Retrieval-Augmented Generation (RAG), vector databases like Qdrant and ChromaDB, and DevOps tools including CUDA and Docker.</h3>
 
@@ -42,7 +38,7 @@ Here's your updated profile with the addition of the Qdrant link and image:
 
 <h3 align="left">Technologies I Work With:</h3>  
 <p align="left">  
-<a href="https://qdrant.tech" target="_blank"><img src="https://avatars.githubusercontent.com/u/69344934?s=200&v=4" alt="qdrant" width="40" height="40"/></a>  
+<a href="https://qdrant.tech" target="_blank"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="qdrant" width="40" height="40"/></a>  
 </p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeuscoderbe&show_icons=true&locale=en&layout=compact" alt="zeuscoderbe" /></p>  
