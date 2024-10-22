@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 🫷 , I'm Quang Huy, or Zeus for english name</h1>
 <h3 align="center">As a final-year Data Engineering student with a passion for Natural Language Processing (NLP) and working with diverse data types, I aspire to develop innovative solutions that drive data-driven business decisions. As a fresher AI Engineer specializing in Generative AI (GenAI), Large Language Models (LLM), and NLP, I focus on creating AI-powered products that help businesses optimize their operational processes. I specialize in chatbot development and have experience fine-tuning LLMs such as PhoBERT, BERT, and ViT5. Additionally, I possess skills in Retrieval-Augmented Generation (RAG), vector databases like Qdrant and ChromaDB, and DevOps tools including CUDA and Docker</h3>
 
-- 💬 Ask me about **https://www.tiktok.com/messages?lang=vi-VN**
+- 💬 Ask me about **https://www.tiktok.com/@zeusghetda?lang=vi-VN**
 
 - 📫 How to reach me **hdang1696@gmail.**
 
