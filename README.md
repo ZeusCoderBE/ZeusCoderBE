@@ -25,7 +25,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>   
 <a href="https://qdrant.tech" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="40" height="40"/></a>  
 <a href="https://www.trychroma.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqd_XPfXSx4LU6aBoVWObLz0ShODYzp9Z6Q&s" alt="chroma" width="40" height="40"/></a> 
-<a href="https://www.langchain.com/" target="_blank"><img src="https://lancedb.github.io/lancedb/assets/langchain.png" alt="langchain" width="40" height="40"/></a> 
+<a href="https://www.langchain.com/" target="_blank"><img src="https://agile-systems.de/wp-content/uploads/2024/03/LangChain-Logo-min.png" alt="langchain" width="40" height="40"/></a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  
