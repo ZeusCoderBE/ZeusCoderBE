@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/beb0b4ae-1376-485d-a3b6-551a2800912d)<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
+<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
 <h3 align="center">As a final-year Data Engineering student with a passion for Natural Language Processing (NLP) and working with diverse data types, I aspire to develop innovative solutions that drive data-driven business decisions. As a fresher AI Engineer specializing in Generative AI (GenAI), Large Language Models (LLM), and NLP, I focus on creating AI-powered products that help businesses optimize their operational processes. </h3>
 
 - 💬 Ask me about **https://www.tiktok.com/@zeusghetda**  
