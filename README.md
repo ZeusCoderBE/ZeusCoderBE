@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
+![image](https://github.com/user-attachments/assets/beb0b4ae-1376-485d-a3b6-551a2800912d)<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
 <h3 align="center">As a final-year Data Engineering student with a passion for Natural Language Processing (NLP) and working with diverse data types, I aspire to develop innovative solutions that drive data-driven business decisions. As a fresher AI Engineer specializing in Generative AI (GenAI), Large Language Models (LLM), and NLP, I focus on creating AI-powered products that help businesses optimize their operational processes. </h3>
 
 - 💬 Ask me about **https://www.tiktok.com/@zeusghetda**  
@@ -15,8 +15,8 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>  
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>  
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>  
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>  
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThejmwKaSdHRIvI4IPLvGudxHKM92fKiSDuA&s" alt="flask" width="40" height="40"/></a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>  
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/></a>  
