@@ -1,10 +1,8 @@
 <h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
-<h3 align="center">I am a 4th-year Data Engineering student aiming to advance my career in the field of AI Engineering, with 7 months of 
-hands-on experience in data analysis and model development, particularly in the field of Generative AI. My expertise lies in 
-Natural Language Processing (NLP) and developing AI-driven solutions, including optimized information retrieval systems 
-and advanced chatbots. I aim to leverage cutting-edge AI technologies to enhance decision-making, increase productivity, 
-and streamline business processes. By harnessing these technologies, I strive to drive innovation and deliver impactful 
-solutions that maximize the value of data and help organizations achieve their strategic goals. </h3>
+<h3 align="center">I am a 4th-year Data Engineering student aiming to advance my career in the field of AI Engineering, with 10 months of 
+experience in data analysis and AI model development, focusing on NLP and Generative AI. I aspire to build cutting-edge 
+AI solutions such as chatbots and information retrieval systems to drive innovation, optimize business processes, and 
+support data-driven decision-making.</h3>
 
 - 💬 Ask me about **https://www.tiktok.com/@zeuslamai**  
 - 📫 How to reach me **hdang1696@gmail.com**
