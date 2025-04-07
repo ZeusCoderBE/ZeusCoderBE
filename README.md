@@ -2,10 +2,10 @@
 
 <h2 align="left">Objective:</h2>  
 
-<h3 align="center">  As an AI Engineer aiming to advance my career in AI Engineer, I have 1 year of experience in data analysis and AI 
+As an AI Engineer aiming to advance my career in AI Engineer, I have 1 year of experience in data analysis and AI 
 model development. My focus has been on NLP and Generative AI, with the goal of building software products such as 
 chatbots and information retrieval systems. I strive to drive innovation, optimize business processes, and enable data-driven 
-decision-making by utilizing cutting-edge AI solutions. </h3>
+decision-making by utilizing cutting-edge AI solutions.
 
 <h2 align="left">About me:</h2>  
 
