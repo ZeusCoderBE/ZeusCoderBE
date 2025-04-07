@@ -1,9 +1,13 @@
 <h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
+
+<h2 align="left">Objective:</h2>  
+
 <h3 align="center">  As an AI Engineer aiming to advance my career in AI Engineer, I have 1 year of experience in data analysis and AI 
 model development. My focus has been on NLP and Generative AI, with the goal of building software products such as 
 chatbots and information retrieval systems. I strive to drive innovation, optimize business processes, and enable data-driven 
 decision-making by utilizing cutting-edge AI solutions. </h3>
 
+<h2 align="left">About me</h2>  
 - 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Data Engineering, with an excellent GPA of 3.61
 - 🎯 Goals: To become a Senior AI Engineer within the next 3 years — currently working at Viettel as an AI Engineer, with 1 year of experience in Generative AI
 - 💬 Ask me about **https://www.tiktok.com/@huylamai**  
