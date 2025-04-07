@@ -15,7 +15,8 @@ decision-making by utilizing cutting-edge AI solutions. </h3>
 <a href="https://fb.com/100012067900880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100012067900880" height="30" width="40" /></a>  
 </p>  
 
-<h2 align="left">💻 Tech Stack:</h2>  
+<h2 align="left">💻 Tech Stack:</h2> 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
