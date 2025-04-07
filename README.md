@@ -4,6 +4,8 @@ model development. My focus has been on NLP and Generative AI, with the goal of 
 chatbots and information retrieval systems. I strive to drive innovation, optimize business processes, and enable data-driven 
 decision-making by utilizing cutting-edge AI solutions. </h3>
 
+- 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Data Engineering, with an excellent GPA of 3.61
+- 🎯 Goals: To become a Senior AI Engineer within the next 3 years — currently working at Viettel as an AI Engineer, with 1 year of experience in Generative AI
 - 💬 Ask me about **https://www.tiktok.com/@zeuslamai**  
 - 📫 How to reach me **hdang1696@gmail.com**
 
