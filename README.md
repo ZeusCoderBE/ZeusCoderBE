@@ -44,12 +44,14 @@ decision-making by utilizing cutting-edge AI solutions. </h3>
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Others:
+### Generative AI:
 ![Qdrant](https://img.shields.io/badge/Qdrant-6c3f99?style=for-the-badge&logo=qdrant&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Others:
 ![NVIDIA CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
