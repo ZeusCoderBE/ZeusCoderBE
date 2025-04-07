@@ -1,19 +1,23 @@
-<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
-<h3 align="center">  As an AI Engineer aiming to advance my career in AI Engineer, I have 1 year of experience in data analysis and AI 
-model development. My focus has been on NLP and Generative AI, with the goal of building software products such as 
-chatbots and information retrieval systems. I strive to drive innovation, optimize business processes, and enable data-driven 
-decision-making by utilizing cutting-edge AI solutions. </h3>
+<h1 align="center">Hi everyone 🫷, I'm Quang Huy, also known as Zeus</h1>
 
-- 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Data Engineering, with an excellent GPA of 3.61
-- 🎯 Goals: To become a Senior AI Engineer within the next 3 years — currently working at Viettel as an AI Engineer, with 1 year of experience in Generative AI
-- 💬 Ask me about **https://www.tiktok.com/@zeuslamai**  
-- 📫 How to reach me **hdang1696@gmail.com**
+<h3 align="center">
+  As an AI Engineer with 1 year of experience in data analysis and AI model development, my focus lies in NLP and Generative AI. I aim to build software products like chatbots and information retrieval systems, driving innovation and enabling data-driven decision-making.
+</h3>
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/huyhocdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata" height="30" width="40" /></a>  
-<a href="https://fb.com/100012067900880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100012067900880" height="30" width="40" /></a>  
-</p>  
+- 📚 **Education:** 4th-year Data Engineering student at Ho Chi Minh City University of Technology and Education, GPA: 3.61
+- 🎯 **Career Goal:** Aspire to become a Senior AI Engineer in the next 3 years. Currently contributing as an AI Engineer at Viettel, specializing in Generative AI.
+- 💬 **Ask me about:** [TikTok Profile](https://www.tiktok.com/@zeuslamai)
+- 📫 **Contact:** hdang1696@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/huyhocdata" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/100012067900880" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100012067900880" height="30" width="40" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
@@ -47,7 +51,6 @@ decision-making by utilizing cutting-edge AI solutions. </h3>
 ### Generative AI:
 ![Qdrant](https://img.shields.io/badge/Qdrant-6c3f99?style=for-the-badge&logo=qdrant&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Others:
 ![NVIDIA CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
