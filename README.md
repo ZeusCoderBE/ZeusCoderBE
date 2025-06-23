@@ -9,8 +9,8 @@ decision-making by utilizing cutting-edge AI solutions.</p>
 
 <h2 align="left">About me:</h2>  
 
-- 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Data Engineering, with an excellent GPA of 3.61
-- 🎯 Goals: To become a Senior AI Engineer within the next 3 years — currently working at Viettel as an AI Engineer, with 1 year of experience in Generative AI
+- 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Data Engineering, with an excellent GPA of 3.65
+- 🎯 Goals: To become a Senior AI Engineer within the next 3 years — currently working at MoMo as an AI Engineer, with 1.5 year of experience in Generative AI
 - 💬 Ask me about **https://www.tiktok.com/@huylamai**
 - 📫 How to reach me **hdang1696@gmail.com**
 
