@@ -14,6 +14,9 @@ decision-making by utilizing cutting-edge AI solutions.</p>
 - 💬 Ask me about **https://www.tiktok.com/@huylamai**
 - 📫 How to reach me **hdang1696@gmail.com**
 
+<h2 align="left">Open Source Model</h2>  
+- Embedding model  :  https://huggingface.co/huyydangg/DEk21_hcmute_embedding
+
 <h2 align="left">Connect with me:</h2>  
 <p align="left">  
 <a href="https://linkedin.com/in/huyhocdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huyhocdata" height="30" width="40" /></a>  
