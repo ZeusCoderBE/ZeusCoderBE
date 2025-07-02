@@ -15,7 +15,7 @@ decision-making by utilizing cutting-edge AI solutions.</p>
 - 📫 How to reach me **hdang1696@gmail.com**
 
 <h2 align="left">Open Source Model</h2>  
-- Embedding model  :  https://huggingface.co/huyydangg/DEk21_hcmute_embedding
+Embedding model  :  https://huggingface.co/huyydangg/DEk21_hcmute_embedding
 
 <h2 align="left">Connect with me:</h2>  
 <p align="left">  
