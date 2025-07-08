@@ -1,18 +1,18 @@
-<h1 align="center">Hi everyone 🫷, I'm Quang Huy, or Zeus for English name</h1>  
+<h1 align="center">Hi everyone 👋, I'm Quang Huy, or Zeus for English name</h1>
 
 <h2 align="left">Objective:</h2>  
 
-<p align="left"> As an AI Engineer aiming to advance my career in AI Engineer, I have 1 year of experience in data analysis and AI 
+<p align="left"> As an AI Engineer aiming to advance my career in AI Engineer, I have 1.5 year of experience in data analysis and AI 
 model development. My focus has been on NLP and Generative AI, with the goal of building software products such as 
 chatbots and information retrieval systems. I strive to drive innovation, optimize business processes, and enable data-driven 
 decision-making by utilizing cutting-edge AI solutions.</p>
 
 <h2 align="left">About me:</h2>  
 
-- 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Data Engineering, with an excellent GPA of 3.65
-- 🎯 Goals: To become a Senior AI Engineer within the next 3 years — currently working at THU VIEN PHAP LUAT as an Junior AI Engineer, with 1.5 year of experience in Generative AI
-- 💬 Ask me about **https://www.tiktok.com/@huylamai**
-- 📫 How to reach me **hdang1696@gmail.com**
+- 📚 I graduated from **Ho Chi Minh City University of Technology and Education (Đại học Sư phạm Kỹ thuật TP.HCM)**, majoring in Data Engineering, with an excellent GPA of 3.65  
+- 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently working at **THƯ VIỆN PHÁP LUẬT** as a **Junior AI Engineer**, with **1.5 years of experience in Generative AI**  
+- 💬 Ask me about [my TikTok](https://www.tiktok.com/@huylamai)  
+- 📫 How to reach me: **hdang1696@gmail.com**
 
 <h2 align="left">Open Source Model</h2>  
 Embedding model  :  https://huggingface.co/huyydangg/DEk21_hcmute_embedding
