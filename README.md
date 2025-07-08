@@ -11,7 +11,7 @@ decision-making by utilizing cutting-edge AI solutions.</p>
 
 - 📚 I graduated from **Ho Chi Minh City University of Technology and Education (Đại học Sư phạm Kỹ thuật TP.HCM)**, majoring in Data Engineering, with an excellent GPA of 3.65  
 - 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently working at **THƯ VIỆN PHÁP LUẬT** as a **Junior AI Engineer**, with **1.5 years of experience in Generative AI**  
-- 💬 Ask me about [my TikTok](https://www.tiktok.com/@huylamai)  
+- 💬 Ask me about [Anh Kỹ Sư AI](https://www.tiktok.com/@huylamai)  
 - 📫 How to reach me: **hdang1696@gmail.com**
 
 <h2 align="left">🧪 Open Source Model</h2>
