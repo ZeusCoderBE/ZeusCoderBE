@@ -2,10 +2,7 @@
 
 <h2 align="left">Objective:</h2>  
 
-<p align="left"> As an AI Engineer aiming to advance my career in AI Engineer, I have 1.5 year of experience in data analysis and AI 
-model development. My focus has been on NLP and Generative AI, with the goal of building software products such as 
-chatbots and information retrieval systems. I strive to drive innovation, optimize business processes, and enable data-driven 
-decision-making by utilizing cutting-edge AI solutions.</p>
+<p align="left">AI Engineer with 1.5 years of practical experience in NLP and Generative AI, specializing in building chatbots, retrieval-augmented generation (RAG) systems, and multi-agent workflows. Skilled in deploying end-to-end AI solutions that bridge research and real-world application. Driven by a long-term goal to become a Senior AI Engineer by developing scalable, high-impact systems that solve complex problems</p>
 
 <h2 align="left">About me:</h2>  
 
