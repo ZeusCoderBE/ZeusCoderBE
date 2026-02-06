@@ -2,12 +2,12 @@
 
 <h2 align="left">Objective:</h2>  
 
-<p align="left">AI Engineer with 1.5 years of practical experience in NLP and Generative AI, specializing in building chatbots, retrieval-augmented generation (RAG) systems, and multi-agent workflows. Skilled in deploying end-to-end AI solutions that bridge research and real-world application. Driven by a long-term goal to become a Senior AI Engineer by developing scalable, high-impact systems that solve complex problems</p>
+<p align="left">AI Engineer with 2 years of practical experience in NLP and Generative AI, specializing in building chatbots, retrieval-augmented generation (RAG) systems, and multi-agent workflows. Skilled in deploying end-to-end AI solutions that bridge research and real-world application. Driven by a long-term goal to become a Senior AI Engineer by developing scalable, high-impact systems that solve complex problems</p>
 
 <h2 align="left">About me:</h2>  
 
 - 📚 I graduated from **Ho Chi Minh City University of Technology and Education (Đại học Sư phạm Kỹ thuật TP.HCM)**, majoring in Data Engineering, with an excellent GPA of 3.61  
-- 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently I'm a **Junior AI Engineer**, with **1.5 years of experience in Generative AI**  
+- 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently I'm a **Junior AI Engineer**, with **2 years of experience in Generative AI**  
 - 💬 Ask me about [Anh Kỹ Sư AI](https://www.tiktok.com/@huylamai)  
 - 📫 How to reach me: **hdang1696@gmail.com**
 
