@@ -10,7 +10,7 @@
 - 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently I'm a **Junior AI Engineer**, with **2 years of experience in Generative AI**  
 - 💬 Ask me about [Anh Junior AI](https://www.tiktok.com/@huylamai)  
 - 📫 How to reach me: **hdang1696@gmail.com**
-- 🤖 Co-Founder  [Anh Junior AI](https://www.tiktok.com/@huylamai.code4life.ai) with (https://www.facebook.com/share/1Adrx1zHJa/?mibextid=wwXIfr)
+- 🤖 Co-Founder  [Code4Life-AI](https://www.tiktok.com/@huylamai.code4life.ai) with [fanpage](https://www.facebook.com/share/1Adrx1zHJa/?mibextid=wwXIfr)
 
 <h2 align="left">🧪 Open Source Model</h2>
 
