@@ -8,8 +8,9 @@
 
 - 📚 I graduated from **Ho Chi Minh City University of Technology and Engineering**, majoring in Data Engineering, with an excellent GPA of 3.61 ,Top-3-GPA
 - 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently I'm a **Junior AI Engineer**, with **2 years of experience in Generative AI**  
-- 💬 Ask me about [Anh Kỹ Sư AI](https://www.tiktok.com/@huylamai)  
+- 💬 Ask me about [Anh Junior AI](https://www.tiktok.com/@huylamai)  
 - 📫 How to reach me: **hdang1696@gmail.com**
+- 🤖 Co-Founder  [Anh Junior AI](https://www.tiktok.com/@huylamai.code4life.ai)
 
 <h2 align="left">🧪 Open Source Model</h2>
 
