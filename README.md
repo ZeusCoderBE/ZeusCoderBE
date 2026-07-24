@@ -2,7 +2,7 @@
 
 <h2 align="left">Objective:</h2>  
 
-<p align="left">AI Engineer with 2 years of practical experience in NLP and Generative AI, specializing in building chatbots, retrieval-augmented generation (RAG) systems, and multi-agent workflows. Skilled in deploying end-to-end AI solutions that bridge research and real-world application. Driven by a long-term goal to become a Senior AI Engineer by developing scalable, high-impact systems that solve complex problems</p>
+<p align="left">AI Engineer with over 2 years of experience designing and deploying production-grade LLM applications, RAG systems,and multi-agent architectures across finance, legal, and stock domains. Experienced in model serving, retrieval optimization AI infrastructure, and scalable backend integration for enterprise AI systems. </p>
 
 <h2 align="left">About me:</h2>  
 
