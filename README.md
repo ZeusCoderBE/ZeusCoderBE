@@ -14,7 +14,7 @@
 
 <h2 align="left">🧪 Open Source Model</h2>
 
-- 🔗 Embedding Model: <a href="https://huggingface.co/huyydangg/DEk21_hcmute_embedding" target="_blank">DEk21_hcmute_embedding on Hugging Face</a>
+- 🔗 Embedding Model: <a href="https://huggingface.co/CODE4LIFEOFFICIAL/huydang-dek21-embedding" target="_blank">DEk21_hcmute_embedding on Hugging Face</a>
 
 <h2 align="left">Connect with me:</h2>  
 <p align="left">  
