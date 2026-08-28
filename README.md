@@ -14,7 +14,8 @@ infrastructure, and scalable production systems, with hands-on experience optimi
 - 📫 How to reach me: **hdang1696@gmail.com** 
 <h2 align="left">🧪 Open Source Model</h2>
 
-- 🔗 Embedding Model: <a href="https://huggingface.co/CODE4LIFEOFFICIAL/huydang-dek21-embedding" target="_blank">DEk21_hcmute_embedding on Hugging Face</a>
+- 🔗 Embedding Model: <a href="https://huggingface.co/CODE4LIFEOFFICIAL/huydang-dek21-embedding" target="_blank">huydang-dek21-embedding on Hugging Face</a>
+- 🔗 Embedding Model v2: <a href="https://huggingface.co/CODE4LIFEOFFICIAL/huydang-dek21-embedding-v2" target="_blank">huydang-dek21-embedding-v2 on Hugging Face</a>
 
 <h2 align="left">Connect with me:</h2>  
 <p align="left">  
