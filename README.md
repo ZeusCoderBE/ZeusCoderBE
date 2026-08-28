@@ -2,9 +2,9 @@
 
 <h2 align="left">Objective:</h2>  
 
-<p align="left">AI Engineer with 2+ years of experience designing and deploying production-grade LLM applications, RAG pipelines, and
-multi-agent systems across finance, legal, and stock domains. Experienced in LLM serving, retrieval optimization, AI
-infrastructure, and scalable production systems, with hands-on experience optimizing AI systems for enterprise environments </p>
+<p align="left">AI Engineer with 2+ years of experience designing and deploying production-grade LLM applications, RAG pipelines, and 
+multi-agent systems across finance, legal, and stock domains. Experienced in LLM serving, retrieval optimization, AI 
+infrastructure, and scalable production systems, with hands-on experience optimizing AI systems for enterprise environments.  </p>
 
 <h2 align="left">About me:</h2>  
 
