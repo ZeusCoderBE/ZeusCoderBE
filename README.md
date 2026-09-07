@@ -9,7 +9,7 @@ infrastructure, and scalable production systems, with hands-on experience optimi
 <h2 align="left">About me:</h2>  
 
 - 📚 I graduated from **Ho Chi Minh City University of Technology and Engineering**, majoring in Data Engineering, with an excellent GPA of 3.61 ,Top-3-GPA
-- 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently I'm a **Middle AI Engineer**, with **over 2 years of experience in Generative AI**  
+- 🎯 Goals: To become a **Senior AI Engineer** within the next 3 years — currently I'm a **AI Engineer**, with **over 2.5 years of experience in Generative AI**  
 - 💬 Ask me about Tiktok Chanel [Quang Huy](https://www.tiktok.com/@anhkysuai)  
 - 📫 How to reach me: **hdang1696@gmail.com** 
 <h2 align="left">🧪 Open Source Model</h2>
