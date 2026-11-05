@@ -9,7 +9,7 @@
   <a href="https://www.tiktok.com/@quanghuyai"><b>TikTok @quanghuyai</b></a>
 </p>
 
-##About me
+## About me
 
 AI Engineer with **2.5+ years** of experience designing, building and optimizing production LLM applications, RAG pipelines and multi-agent systems across **finance, stock market and legal** domains. I work on the whole path from retrieval and agents to LLM serving and the infrastructure that keeps them fast and cheap.
 
