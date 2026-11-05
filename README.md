@@ -11,7 +11,7 @@
 
 ## About me
 
-AI Engineer with 2.5+ years of experience designing, developing, and optimizing production-grade LLM applications, RAG pipelines, and multi-agent systems across the finance, stock market, and legal domains. Experienced in LLM serving, retrieval optimization, AI infrastructure, and building scalable, cost-efficient AI solutions for enterprise environments.
+AI Engineer with **2.5+ years** of experience designing, developing, and optimizing production-grade **LLM applications, RAG pipelines, and multi-agent systems** across the **finance, stock market, and legal** domains. Experienced in **LLM serving**, **retrieval optimization**, AI infrastructure, and building scalable, cost-efficient AI solutions for enterprise environments.
 
 - 🎓 Bachelor of Engineering in Data Engineering, **Ho Chi Minh City University of Technology and Engineering**
 - 🏆 GPA **3.61/4**, **Top 3** in Data Engineering cohort 21
