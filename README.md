@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Hi, I'm Quang Huy (HuyQ) — AI Engineer. A 3D globe of the tools I work with rotates next to the intro." />
+  <img src="assets/hero-v2.svg" width="100%" alt="Hi, I'm Quang Huy (HuyQ) — AI Engineer. A 3D globe of the tools I work with rotates next to the intro." />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ AI Engineer with **2.5+ years** of experience designing, building and optimizing
 
 <p align="center">
   <a href="https://huggingface.co/huyydangg/huydang-dek21-embedding">
-    <img src="assets/embedding.svg" width="100%" alt="huydang-dek21-embedding: a Vietnamese embedding model for legal documents. A 3D embedding space shows a query finding its nearest legal texts." />
+    <img src="assets/embedding-v2.svg" width="100%" alt="huydang-dek21-embedding: a Vietnamese embedding model for legal documents. A 3D embedding space shows a query finding its nearest legal texts." />
   </a>
 </p>
 
