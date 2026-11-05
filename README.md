@@ -16,7 +16,7 @@ AI Engineer with **2.5+ years** of experience designing, building and optimizing
 - 🎓 Bachelor of Engineering in Data Engineering, **Ho Chi Minh City University of Technology and Engineering**
 - 🏆 GPA **3.61/4**, **Top 3** in Data Engineering cohort 21
 - 🎯 Aiming for **Senior AI Engineer** within 3 years
-- 🎬 Sharing AI knowledge on TikTok: [@quanghuyai](https://www.tiktok.com/@quanghuyai)
+- 🎬 I share what I learn about AI on TikTok: [@quanghuyai](https://www.tiktok.com/@quanghuyai)
 
 ## Open source
 
