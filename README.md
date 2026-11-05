@@ -13,9 +13,11 @@
 
 AI Engineer with **2.5+ years** of experience designing, building and optimizing production LLM applications, RAG pipelines and multi-agent systems across **finance, stock market and legal** domains. I work on the whole path from retrieval and agents to LLM serving and the infrastructure that keeps them fast and cheap.
 
-- 🎓 B.Eng. in Data Engineering, **Ho Chi Minh City University of Technology and Engineering**: GPA 3.61/4, 3rd-highest GPA in Data Engineering cohort 21
-- 🎯 Working toward **Senior AI Engineer** within the next 3 years
-- 🎬 I explain AI topics in Vietnamese on TikTok: [@quanghuyai](https://www.tiktok.com/@quanghuyai)
+- 🎓 B.Eng. in Data Engineering, **HCMUTE**
+- 📊 GPA **3.61/4**
+- 🏆 **Top 3** GPA in Data Engineering cohort 21
+- 🎯 Aiming for **Senior AI Engineer** within 3 years
+- 🎬 Sharing AI knowledge on TikTok: [@quanghuyai](https://www.tiktok.com/@quanghuyai)
 
 ## Open source
 
