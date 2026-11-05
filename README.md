@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-v2.svg" width="100%" alt="Hi, I'm Quang Huy (HuyQ) — AI Engineer. A 3D globe of the tools I work with rotates next to the intro." />
+  <img src="assets/hero-v3.svg" width="100%" alt="Hi, I'm Quang Huy (HuyQ) — AI Engineer. A 3D globe of the tools I work with rotates next to the intro." />
 </p>
 
 <p align="center">
