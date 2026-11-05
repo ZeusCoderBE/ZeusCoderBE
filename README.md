@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/huyhocdata"><img src="https://img.shields.io/badge/LinkedIn-F1F5F9?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iIzBBNjZDMiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNMCAxLjE0NkMwIC41MTMuNTI2IDAgMS4xNzUgMGgxMy42NUMxNS40NzQgMCAxNiAuNTEzIDE2IDEuMTQ2djEzLjcwOGMwIC42MzMtLjUyNiAxLjE0Ni0xLjE3NSAxLjE0NkgxLjE3NUMuNTI2IDE2IDAgMTUuNDg3IDAgMTQuODU0em00Ljk0MyAxMi4yNDhWNi4xNjlIMi41NDJ2Ny4yMjV6bS0xLjItOC4yMTJjLjgzNyAwIDEuMzU4LS41NTQgMS4zNTgtMS4yNDgtLjAxNS0uNzA5LS41Mi0xLjI0OC0xLjM0Mi0xLjI0OFMyLjQgMy4yMjYgMi40IDMuOTM0YzAgLjY5NC41MjEgMS4yNDggMS4zMjcgMS4yNDh6bTQuOTA4IDguMjEyVjkuMzU5YzAtLjIxNi4wMTYtLjQzMi4wOC0uNTg2LjE3My0uNDMxLjU2OC0uODc4IDEuMjMyLS44NzguODY5IDAgMS4yMTYuNjYyIDEuMjE2IDEuNjM0djMuODY1aDIuNDAxVjkuMjVjMC0yLjIyLTEuMTg0LTMuMjUyLTIuNzY0LTMuMjUyLTEuMjc0IDAtMS44NDUuNy0yLjE2NSAxLjE5M3YuMDI1aC0uMDE2bC4wMTYtLjAyNVY2LjE2OWgtMi40Yy4wMy42NzggMCA3LjIyNSAwIDcuMjI1eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
-  <a href="mailto:hdang1696@gmail.com"><img src="https://img.shields.io/badge/hdang1696%40gmail.com-F1F5F9?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://huggingface.co/huyydangg"><img src="https://img.shields.io/badge/Hugging_Face-F1F5F9?style=flat-square&logo=huggingface&logoColor=FFB000" alt="Hugging Face" /></a>
-  <a href="https://www.tiktok.com/@quanghuyai"><img src="https://img.shields.io/badge/TikTok_%40quanghuyai-F1F5F9?style=flat-square&logo=tiktok&logoColor=000000" alt="TikTok" /></a>
+  <a href="https://linkedin.com/in/huyhocdata"><img src="assets/contact-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:hdang1696@gmail.com"><img src="assets/contact-email.svg" height="40" alt="Email: hdang1696@gmail.com" /></a>&nbsp;
+  <a href="https://huggingface.co/huyydangg"><img src="assets/contact-huggingface.svg" height="40" alt="Hugging Face" /></a>&nbsp;
+  <a href="https://www.tiktok.com/@quanghuyai"><img src="assets/contact-tiktok.svg" height="40" alt="TikTok @quanghuyai" /></a>
 </p>
 
 ## About me
